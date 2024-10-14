@@ -1,0 +1,5 @@
+@media(max-width:800px){
+  .add-product{
+    @apply !w-auto !p-[30px] !m-[20px] 
+  }
+}

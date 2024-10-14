@@ -1,0 +1,14 @@
+.listproduct-format-main p{
+  @apply flex justify-center
+}
+@media(max-width:800px){
+  .list-product{
+    @apply !box-border !w-[95%] !h-full !p-[10px_30px] !m-[20px_auto]
+  }
+  .listproduct-format-main{
+    @apply !py-[15px_0px] !text-[#454545] !text-[12px]
+  }
+  .listproduct-product-icon{
+    @apply !h-[60px] 
+  }
+}

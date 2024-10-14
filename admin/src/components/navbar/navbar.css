@@ -1,0 +1,11 @@
+@media(max-width:800px){
+  .navbar{
+    @apply p-[15px_30px]
+  }
+  .nav-logo{
+    @apply w-[150px]
+  }
+  .nav-profile{
+    @apply w-[60px]
+  }
+}
